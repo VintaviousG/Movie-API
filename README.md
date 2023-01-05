@@ -6,8 +6,8 @@ The user enters in a  movie title, and are sent to the results page to view a li
 
 ## Images
 ### Home Page
-
+![Output](https://github.com/VintaviousG/Movie-API/blob/master/MovieSearchApp_1.png?raw=true)
 ### Results Page
-
+![Output](https://github.com/VintaviousG/Movie-API/blob/master/MovieSearchApp_2.png?raw=true)
 ## Technologies
 HTML/CSS, Bootstrap, Javascript, Express, EJS, Node, and the [TMDB API](https://www.themoviedb.org/).
